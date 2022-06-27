@@ -1,7 +1,7 @@
 {
   "ecosistems": {
     "artic": {
-      "Artico1": {
+      "Ecosistema_Artico": {
         "nome": "Islanda",
         "cubemap": "url",
         "minimap": "minimapArtico1",
@@ -28,7 +28,7 @@
           }
         ]
       },
-      "Artico2": {
+      "Ecosistema_Artico_2": {
         "nome": "Groelandia",
         "cubemap": "url",
         "minimap": "minimapArtico2",
