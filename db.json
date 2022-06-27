@@ -4,7 +4,7 @@
       "Artico1": {
         "nome": "Islanda",
         "cubemap": "url",
-        "minimap": false,
+        "minimap": "minimapArtico1",
         "pois": [
           {
             "nome": "nome 1",
@@ -31,7 +31,7 @@
       "Artico2": {
         "nome": "Groelandia",
         "cubemap": "url",
-        "minimap": "mapId",
+        "minimap": "minimapArtico2",
         "pois": [
           {
             "nome": "nome 1",
@@ -60,15 +60,28 @@
     "forest": {}
   },
   "maps": {
-    "map_id": {
-      "texture": "url_to_texture",
+    "minimapArtico1": {
+      "texture": "http://localhost:8080/bg_test.png",
       "ecosistemKey": "artico",
       "pois": [
         {
           "domeKey": "Artico1",
           "mapPosition": {
-            "x": 0,
-            "y": 0
+            "x": 0.233,
+            "y": 0.511
+          }
+        }
+      ]
+    },
+    "minimapArtico2": {
+      "texture": "http://localhost:8080/bg_test.png",
+      "ecosistemKey": "artico",
+      "pois": [
+        {
+          "domeKey": "Artico2",
+          "mapPosition": {
+            "x": 0.233,
+            "y": 0.511
           }
         }
       ]
