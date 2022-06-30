@@ -7,53 +7,33 @@
         "minimap": "minimapArtico1",
         "pois": [
           {
-            "nome": "nome 1",
+            "name": "nome 1",
             "type": "video",
             "description": "",
             "content": "url al contenuto o contenuto",
             "position": {
-              "x": 0,
-              "y": 0
+              "x": 1.1079716434112665,
+              "y": 0.7643716004976895
             }
           },
           {
-            "nome": "nome 3",
+            "name": "nome 3",
             "type": "image",
             "description": "",
             "content": "url al contenuto o contenuto",
             "position": {
-              "x": -12,
-              "y": 12
+              "x": 0.20639609871625986,
+              "y": -0.03947366153393794
             }
           },
           {
-            "nome": "nome 4",
+            "name": "nome 4",
             "type": "audio",
             "description": "",
             "content": "url al contenuto o contenuto",
             "position": {
-              "x": 12,
-              "y": 12
-            }
-          },
-          {
-            "nome": "nome 5",
-            "type": "toLimbo",
-            "description": "",
-            "content": "url al contenuto o contenuto",
-            "position": {
-              "x": -12,
-              "y": -12
-            }
-          },
-          {
-            "nome": "nome 2 ",
-            "type": "text",
-            "description": "",
-            "content": "url al contenuto o contenuto",
-            "position": {
-              "x": 12,
-              "y": -12
+              "x": -1.4468918554128294,
+              "y": 0.23022184408256763
             }
           }
         ]
