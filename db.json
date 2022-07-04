@@ -1,9 +1,9 @@
 {
  "ecosistems": {
-    "artico": {
+    "artic": {
       "Artico1": {
-        "nome": "Islanda",
-        "cubemap": "denoiseledafinal/denoiseledafinalOut2",
+        "name": "Islanda",
+        "cubemap": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2",
         "minimap": "minimapArtico1",
         "pois": [
           {
@@ -39,8 +39,8 @@
         ]
       },
       "Artico2": {
-        "nome": "Groelandia 1",
-        "cubemap": "denoiseledafinal/denoiseledafinalOut2",
+        "name": "Groelandia 1",
+        "cubemap": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2",
         "minimap": "minimapArtico2",
         "pois": [
           {
@@ -66,8 +66,8 @@
         ]
       },
       "Artico3": {
-        "nome": "Groelandia 2",
-        "cubemap": "denoiseledafinal/denoiseledafinalOut2",
+        "name": "Groelandia 2",
+        "cubemap": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2",
         "minimap": "mapId",
         "pois": [
           {
@@ -99,7 +99,7 @@
   "maps": {
     "minimapArtico1": {
       "texture": "http://localhost:8080/bg_test.png",
-      "ecosistemKey": "artico",
+      "ecosistemKey": "artic",
       "pois": [
         {
           "domeKey": "Artico1",
@@ -119,7 +119,7 @@
     },
     "minimapArtico2": {
       "texture": "http://localhost:8080/bg_test.png",
-      "ecosistemKey": "artico",
+      "ecosistemKey": "artic",
       "pois": [
         {
           "domeKey": "Artico2",
